@@ -3,6 +3,9 @@ def introduction():
 
 def add():
     print('add')
-    
+
 def joke():
     print("HEHEHE")
+
+def shout():
+    print("scream!")
